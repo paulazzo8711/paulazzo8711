@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=paulazzo8711&label=Profile%20views&color=a01542&style=flat" alt="Profile views" />
+  
   <a href="https://azzopardi.com.mt"><img src="https://img.shields.io/badge/Website-azzopardi.com.mt-a01542?style=flat&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="https://linkedin.com/in/paulazzo"><img src="https://img.shields.io/badge/LinkedIn-paulazzo-a01542?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:paul@azzopardi.com.mt"><img src="https://img.shields.io/badge/Email-paul%40azzopardi.com.mt-a01542?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
