@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Web Developer · CTO at Azzopardi International LTD · Malta 🇲🇹</h3>
 
 <p align="center">
-  Websites, web apps, full-stack applications and mobile apps — built end to end by one developer.
+  Websites, web apps, full-stack applications and mobile apps - built end to end by one developer.
 </p>
 
 <p align="center">
@@ -16,13 +16,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a full-stack web developer based in **Malta**, building websites, web apps, full-stack applications and mobile apps for businesses — from the first conversation to launch and beyond.
+I'm a full-stack web developer based in **Malta**, building websites, web apps, full-stack applications and mobile apps for businesses - from the first conversation to launch and beyond.
 
-- 🏢 **Chief Technology Officer** at **Azzopardi International LTD** — my own software development company
-- 🎓 **BSc Information Technology (Honours)** in Software Development — University of Malta, 2024 *(Second Class Honours, Upper Division)*
+- 🏢 **Chief Technology Officer** at **Azzopardi International LTD** - my own software development company
+- 🎓 **BSc Information Technology (Honours)** in Software Development - University of Malta, 2024 *(Second Class Honours, Upper Division)*
 - 🚀 Building websites professionally since **2017**
 - 💼 Previously **Junior Software Developer** at ITeanova Tec LTD (2022 – 2026), working with SAP Fiori, UI5 & ABAP
-- 🤝 You work with me directly — I'd rather ask the right questions early than ship the wrong thing quickly
+- 🤝 You work with me directly - I'd rather ask the right questions early than ship the wrong thing quickly
 - 📄 [View my CV](https://drive.google.com/file/d/1bWHi0MyxO9Y0otDgMKdrwxvorQNDLi5F/view?usp=sharing)
 
 ## 🔭 What I'm Up To
@@ -94,28 +94,28 @@ I'm a full-stack web developer based in **Malta**, building websites, web apps, 
 
 | Project | Description | Tech | Live |
 | --- | --- | --- | --- |
-| **Urban Rise Properties** | Real estate website for the Maltese islands — featured properties, location search & multilingual content | Next.js | [🔗](https://www.urbanriseproperties.com/) |
+| **Urban Rise Properties** | Real estate website for the Maltese islands - featured properties, location search & multilingual content | Next.js | [🔗](https://www.urbanriseproperties.com/) |
 | **JewelBox Malta** | E-commerce jewellery store with a build-your-own diamond ring builder, wishlist & appointment booking | Next.js | [🔗](https://www.jewelbox.mt/) |
 | **DineDasher** | Full-stack restaurant booking platform with capacity management & automated SMS/email notifications | Next.js | [🔗](https://dinedasher.com/) |
-| **Invo** | AI-powered invoicing software — mass receipt scanning, OCR data extraction & on-the-fly invoice generation | React | [🔗](https://invoicing.dsmcomms.com) |
-| **Gouder & Associates** | Corporate website for a Maltese law & business management firm — part of the connected Gouder group sites | Next.js | [🔗](https://gouder.associates/) |
+| **Invo** | AI-powered invoicing software - mass receipt scanning, OCR data extraction & on-the-fly invoice generation | React | [🔗](https://invoicing.dsmcomms.com) |
+| **Gouder & Associates** | Corporate website for a Maltese law & business management firm - part of the connected Gouder group sites | Next.js | [🔗](https://gouder.associates/) |
 | **Salumeria Gardens** | Modern, stylish restaurant website | Next.js | [🔗](https://salumeriagardens.com/) |
-| **SMS System** | Telecommunication system communicating with a GSM modem for sending & receiving messages | React · Node.js · Firebase | — |
-| **Restaurant POS** | Mobile-friendly point of sale — waiters take orders with instant kitchen notifications & receipt printing | React | — |
-| **Scraper** | Social media scraping tool that extracts user details and builds profiles from content patterns | Next.js · Node.js | — |
-| **Analytics** | Web interaction tool retrieving contact info from keyword-based link discovery | Next.js · Node.js · Puppeteer | — |
-| **Robocaller** | Automated bulk calling with message recording, playback & bidirectional audio recording | Python | — |
+| **SMS System** | Telecommunication system communicating with a GSM modem for sending & receiving messages | React · Node.js · Firebase | - |
+| **Restaurant POS** | Mobile-friendly point of sale - waiters take orders with instant kitchen notifications & receipt printing | React | - |
+| **Scraper** | Social media scraping tool that extracts user details and builds profiles from content patterns | Next.js · Node.js | - |
+| **Analytics** | Web interaction tool retrieving contact info from keyword-based link discovery | Next.js · Node.js · Puppeteer | - |
+| **Robocaller** | Automated bulk calling with message recording, playback & bidirectional audio recording | Python | - |
 
 👉 *More projects and case studies on [azzopardi.com.mt/portfolio](https://azzopardi.com.mt/portfolio)*
 
 ## 💼 Experience
 
-- **Chief Technology Officer** — Azzopardi International LTD *(Apr 2026 – Present)*
-- **Junior Software Developer** — ITeanova Tec LTD *(Jul 2022 – Mar 2026)*
-- **Web Designer & Developer** — La Vallette Apartments *(2021)*
-- **Web Designer & Developer** — AP Supplies LTD *(2021)*
-- **Web Designer & Developer** — deMaria Law *(2021)*
-- **IT Director** — Blaze, JAYE Foundation Project *(2018 – 2019)*
+- **Chief Technology Officer** - Azzopardi International LTD *(Apr 2026 – Present)*
+- **Junior Software Developer** - ITeanova Tec LTD *(Jul 2022 – Mar 2026)*
+- **Web Designer & Developer** - La Vallette Apartments *(2021)*
+- **Web Designer & Developer** - AP Supplies LTD *(2021)*
+- **Web Designer & Developer** - deMaria Law *(2021)*
+- **IT Director** - Blaze, JAYE Foundation Project *(2018 – 2019)*
 - Freelance web design & development since **2017**
 
 ## 📊 GitHub Stats
